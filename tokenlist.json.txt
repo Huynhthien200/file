@@ -1,0 +1,15 @@
+{
+  "name": "PurpleDuck Token List",
+  "logoURI": "https://raw.githubusercontent.com/Huynhthien200/file/refs/heads/main/08a10a45-3c84-4b21-b202-53b952780b39.webp",
+  "timestamp": "2025-03-05T10:10:00+00:00",
+  "tokens": [
+    {
+      "chainId": 10143,
+      "address": "0x083978Dd12842779e907472A331314190730a5Bf",
+      "symbol": "PDC",
+      "name": "PurpleDuck",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Huynhthien200/file/refs/heads/main/08a10a45-3c84-4b21-b202-53b952780b39.webp"
+    }
+  ]
+}
